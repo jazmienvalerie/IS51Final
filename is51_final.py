@@ -13,3 +13,20 @@ The average grade will be shown as sum of all the grades, divided by the number 
 The percentage of grades above the average grade will be shown as the grades > average grade.
 
 """
+
+""" PSUEDOCODE
+Create list
+len(list)
+
+scores 
+iterator, accumulator = 0
+loop through scores 
+    accumulator = accumulator + scores 
+    iterator = iterator + 1 
+average = accumulator / total score 
+print average
+
+percentage of grades higher than average scores 
+ sum of highscores / 24 * 100
+ print percentage 
+"""
